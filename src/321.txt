@@ -1,2 +1,5 @@
 0814-1
 0814-2
+git remote add origin THJ-002$@localhost:13329013514/test1.git
+THJ-002$@192.168.110.9:13329013514/test1.git
+git remote add origin 192.168.110.9:13329013514/test1.git
