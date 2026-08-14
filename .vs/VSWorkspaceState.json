@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\doc",
+    "\\src",
+    "\\txt"
   ],
-  "SelectedNode": "\\C:\\Users\\10293\\Source\\Repos\\Test",
+  "SelectedNode": "\\txt\\111.txt",
   "PreviewInSolutionExplorer": false
 }
