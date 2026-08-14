@@ -78,8 +78,7 @@
               "RelativeToolTip": "txt\\111.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-08-14T00:52:45.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-14T00:52:45.983Z"
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
               "RelativeDocumentMoniker": "src\\321.txt",
               "ToolTip": "C:\\Users\\10293\\source\\repos\\Test\\src\\321.txt",
               "RelativeToolTip": "src\\321.txt",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-08-14T00:52:40.815Z",
               "EditorCaption": ""
