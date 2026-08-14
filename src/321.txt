@@ -9,3 +9,4 @@ git remote add origin THJ-002$@192.168.110.9:13329013514/test1.git
 git remote add origin http://192.168.110.9:3000/13329013514/test1.git
 git push -u origin master
 git config --global --unset a
+1
